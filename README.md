@@ -1,22 +1,14 @@
 [comment]: <> (Author:  Umberto Laghi)
 [comment]: <> (Contact: umberto.laghi2@unibo.it)
 [comment]: <> (Github:  @ubolakes)
+[comment]: <> (Author:  Simone Manoni)
+[comment]: <> (Contact: s.manoni@unibo.it)
+[comment]: <> (Github:  @smanoni)
 
 # rv_tracer
 [![SHL-0.51 license](https://img.shields.io/badge/license-SHL--0.51-green)](LICENSE)
 
 rv_tracer is developed as part of the PULP project, a joint effort between ETH Zurich and the University of Bologna.
-
-If you find this work useful in your research, please consider citing:
-
-```bibtex
-@article{laghi2025efficient,
-  title={Efficient Trace for RISC-V: Design, Evaluation, and Integration in CVA6},
-  author={Laghi, Umberto and Manoni, Simone and Parisi, Emanuele and Bartolini, Andrea},
-  journal={arXiv preprint arXiv:2504.01972},
-  year={2025}
-}
-```
 
 ---
 
